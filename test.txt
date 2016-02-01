@@ -1,1 +1,3 @@
 test.txt 1st line
+2nd line added
+3rd line added
