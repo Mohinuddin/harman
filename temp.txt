@@ -1,6 +1,5 @@
 temp.txt 1st line
 change in temp.txt in git hub
-one more line added from git hub
 
 
 
