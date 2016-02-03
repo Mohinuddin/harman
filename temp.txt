@@ -1,10 +1,6 @@
 temp.txt 1st line
 cherry pick testing
 temp.txt file 
-
-
-added a new line from git hub
-
 adding a line from git client
 adding a line from git client
 
